@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678742810 source:c:\users\emre\desktop\test\recursiveegzersiz5\main.c
+	<stdio.h>
+	<stdlib.h>
+

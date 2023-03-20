@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679309676 source:c:\users\emre\desktop\test\recursivesiralama\main.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
